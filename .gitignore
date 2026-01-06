@@ -1,0 +1,23 @@
+# Build directories
+build/
+out/
+bin/
+
+# IDE directories
+.idea/
+.vscode/
+.vs/
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.user
+
+# OS specific
+.DS_Store
+Thumbs.db
+
+# CMake
+CMakeUserPresets.json
+
+# Local vcpkg
+vcpkg_installed/
